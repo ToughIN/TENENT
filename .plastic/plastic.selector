@@ -1,0 +1,4 @@
+repository "TENET_Project_20210530@axiando@cloud.cn"
+  path "/"
+    smartbranch "/main/ying"   
+     
